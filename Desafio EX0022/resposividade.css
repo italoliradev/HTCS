@@ -1,0 +1,30 @@
+@charset "UTF-8"
+
+*{
+
+}
+
+body{
+ background-color: gray;
+}
+
+main{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin: auto;
+    min-width: 200px;
+    max-height: 800px;
+
+
+
+}
+
+img#Inst{
+    margin-top: 50px;
+    width: 200px;
+    display: block;
+    height: 200px;
+    margin-left: 50px;
+    
+}
